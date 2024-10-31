@@ -25,13 +25,13 @@ require (
 	github.com/google/go-querystring v1.1.0
 	github.com/gophercloud/gophercloud v1.0.0
 	github.com/gophercloud/utils v0.0.0-20210216074907-f6de111f2eae
-	github.com/hashicorp/go-retryablehttp v0.7.1
+	github.com/hashicorp/go-retryablehttp v0.7.7
 	github.com/iij/doapi v0.0.0-20190504054126-0bbf12d6d7df
 	github.com/infobloxopen/infoblox-go-client v1.1.1
 	github.com/labbsr0x/bindman-dns-webhook v1.0.2
 	github.com/linode/linodego v1.9.1
 	github.com/liquidweb/liquidweb-go v1.6.3
-	github.com/mattn/go-isatty v0.0.17
+	github.com/mattn/go-isatty v0.0.20
 	github.com/miekg/dns v1.1.50
 	github.com/mimuret/golang-iij-dpf v0.7.1
 	github.com/mitchellh/mapstructure v1.5.0
@@ -127,7 +127,7 @@ require (
 	go.opencensus.io v0.24.0 // indirect
 	go.uber.org/ratelimit v0.2.0 // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
-	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/sys v0.20.0 // indirect
 	golang.org/x/text v0.7.0 // indirect
 	golang.org/x/tools v0.1.12 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
